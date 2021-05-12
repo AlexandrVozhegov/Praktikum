@@ -85,6 +85,10 @@
 
 **Библиотеки:** `pandas, seaborn, matplotlib.pyplot, plotly.express, plotly, scipy, numpy, math`
 
+### 11. Tableau
+
+https://public.tableau.com/profile/alexandr6390#!/vizhome/Bookdataanalysis/Dashboard1?publish=yes
+
 ### 12. Прогноз оттока посетителей из сети фитнесс-центров
 **Задача:** Построение модели прогнозирования факта оттока посетителей сети фитнесс-центров. Сегментация посетителей.
 
